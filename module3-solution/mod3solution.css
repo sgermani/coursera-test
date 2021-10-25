@@ -1,0 +1,26 @@
+
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.navbar-nav-scroll{
+    background-color: aquamarine;
+}
+.nav-item{
+    border: 1px solid lightgray;
+}
+
+#menu{
+    height: 1000px;
+}
+
+#Chicken{
+    background-color: lavenderblush;
+}
+#Beef{
+    background-color: lemonchiffon;
+}
+#Sushi{
+    background-color: lightpink;
+}
